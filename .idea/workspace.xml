@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="731a7549-bc23-44d0-a473-0440193afeb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Messages/FileModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Messages/MessageForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Messages/MessageForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SidePanel/Channels.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SidePanel/Channels.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i642hpnxZTFAo8Bv0lFyKTwWmP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder (3)/4.1 Display Messages, Create Message Component.zip" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Ram\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.1\WebStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ram\Desktop\slack-clone\src\redux" />
+      <recent name="C:\Users\Ram\Desktop\slack-clone\src\components\app" />
+      <recent name="C:\Users\Ram\Desktop\slack-clone\src\redux\reducers\user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ram\Desktop\slack-clone\src\components\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="731a7549-bc23-44d0-a473-0440193afeb5" name="Default Changelist" comment="" />
+      <created>1601214502072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601214502072</updated>
+      <workItem from="1601214509330" duration="11695000" />
+      <workItem from="1601309192358" duration="5251000" />
+      <workItem from="1601375438054" duration="32000" />
+      <workItem from="1601394484642" duration="4149000" />
+      <workItem from="1601728733285" duration="5671000" />
+      <workItem from="1601846085055" duration="3482000" />
+      <workItem from="1601889243309" duration="6870000" />
+      <workItem from="1602018239404" duration="9024000" />
+      <workItem from="1602149394459" duration="18000" />
+      <workItem from="1602149432667" duration="17000" />
+      <workItem from="1602186323336" duration="599000" />
+      <workItem from="1602257305910" duration="14731000" />
+      <workItem from="1602416221152" duration="77000" />
+      <workItem from="1602431051641" duration="221000" />
+      <workItem from="1602431448669" duration="7219000" />
+      <workItem from="1602501529940" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1602432646912">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602432646912" />
+    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602149452996" />
+    <state width="1921" height="206" key="GridCell.Tab.0.bottom" timestamp="1602273210048">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602273210048" />
+    <state width="1921" height="206" key="GridCell.Tab.0.center" timestamp="1602273210048">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="206" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602273210048" />
+    <state width="1921" height="206" key="GridCell.Tab.0.left" timestamp="1602273210048">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="206" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602273210048" />
+    <state width="1921" height="206" key="GridCell.Tab.0.right" timestamp="1602273210048">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="206" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602273210048" />
+    <state width="1921" height="364" key="GridCell.Tab.1.bottom" timestamp="1601740548965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548965" />
+    <state width="1921" height="364" key="GridCell.Tab.1.center" timestamp="1601740548965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548965" />
+    <state width="1921" height="364" key="GridCell.Tab.1.left" timestamp="1601740548965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548965" />
+    <state width="1921" height="364" key="GridCell.Tab.1.right" timestamp="1601740548965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548965" />
+    <state width="1921" height="364" key="GridCell.Tab.2.bottom" timestamp="1601740548966">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548966" />
+    <state width="1921" height="364" key="GridCell.Tab.2.center" timestamp="1601740548965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.2.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548965" />
+    <state width="1921" height="364" key="GridCell.Tab.2.left" timestamp="1601740548965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.2.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548965" />
+    <state width="1921" height="364" key="GridCell.Tab.2.right" timestamp="1601740548966">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="364" key="GridCell.Tab.2.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601740548966" />
+    <state x="449" y="207" key="SettingsEditor" timestamp="1601915179232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="207" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601915179232" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602267284077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602267284077" />
+    <state x="668" y="257" width="583" height="566" key="find.popup" timestamp="1602267277992">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="668" y="257" width="583" height="566" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602267277992" />
+    <state x="601" y="265" width="700" height="530" key="recent.locations.popup" timestamp="1602267280417">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="601" y="265" width="700" height="530" key="recent.locations.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1602267280417" />
+  </component>
+</project>
