@@ -1,23 +1,24 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
-import mime from "mime-types";
+import mime from 'mime-types';
 
-import { Modal, Input, Button, Icon } from "semantic-ui-react";
+import { Modal, Input, Button, Icon } from 'semantic-ui-react';
 
 class FileModal extends Component {
   state = {
     file: null,
-    authorized: ["image/jepg", "image/png"],
+    authorized: ['image/jepg', 'image/png'],
   };
 
-  addFile = (event) => {
+  addFile = event => {
     const file = event.target.files[0];
+
     if (file) {
       this.setState({ file });
     }
   };
 
-  isAuthorized = (fileName) =>
+  isAuthorized = fileName =>
     this.state.authorized.includes(mime.lookup(fileName));
 
   clearFile = () => this.setState({ file: null });
@@ -30,7 +31,7 @@ class FileModal extends Component {
         const { uploadFile, closeModal } = this.props;
         const metadata = { contentType: mime.lookup(file.name) };
 
-        uploadFile(file.name, metadata);
+        uploadFile(file, metadata);
         closeModal();
         this.clearFile();
       }
@@ -52,18 +53,18 @@ class FileModal extends Component {
           <Input
             onChange={this.addFile}
             fluid
-            label="File types: jpg, png"
-            name="file"
-            type="file"
+            label='File types: jpg, png'
+            name='file'
+            type='file'
           />
         </Modal.Content>
         <Modal.Actions>
-          <Button onClick={this.sendFile} color="green" inverted>
-            <Icon name="checkmark" /> Send
+          <Button onClick={this.sendFile} color='green' inverted>
+            <Icon name='checkmark' /> Send
           </Button>
 
-          <Button color="red" inverted onClick={this.handleCloseModelClick}>
-            <Icon name="remove" /> Remove
+          <Button color='red' inverted onClick={this.handleCloseModelClick}>
+            <Icon name='remove' /> Remove
           </Button>
         </Modal.Actions>
       </Modal>
